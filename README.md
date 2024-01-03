@@ -1,5 +1,5 @@
-# RSeminar, winter 2023
-Shared Code Repo for UCSB EEMB R Seminar, WIN2023 (EEMB 595R)
+# RSeminar, winter 2024
+Shared Code Repo for UCSB EEMB R Seminar, WIN2024 (EEMB 595R, EEMB 194R)
 
 Created by Leander Anderegg (landeregg@ucsb.edu, https://github.com/leanderegg), based on materials created by legendary Dr. Ian Breckheimer (https://github.com/ibreckhe) for an old R Seminar at the University of Washington (https://github.com/UW-RSeminar-Fall2015)
 
