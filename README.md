@@ -19,6 +19,15 @@ Guidelines for Presenters:
 
 - Motivate with Science—We are scientists, not programmers.
 
+## For Folks Enrolled in 194R/595R
+- If you're a grad enrolled in 595R, please sign up to lead a tutorial
+- If you're an undergrad enrolled in 194R, please sign up to either of:
+    1) help a grad student with a tutorial (be an assistant tutorial lead)
+    2) present a 5 min 'Undergrad Expert' section to
+       - give a deep dive into a function (either your current fav/a great one you've recently discovered or one of the central functions from a prior tutorial that you wanted to know more about)
+       - Share a coding tip or trick that makes your code more readable/transferable/robust or just something cool that makes your R life better.
+(NOTE: This is actually intended to be quick, really 5mins or less)
+
 ## Instructions for Presenters:
 Sign into the GitHub website and create a new repository to hold the files you want to share. Name it using the convention "WeekX_topic". For example if you are presenting about regression on week 3, the name would be "Week3_regression". Optionally add a description, .gitignore, README, and license. Click "Create repository".
 
