@@ -23,7 +23,7 @@ Guidelines for Presenters:
 - If you're a grad enrolled in 595R, please sign up to lead a tutorial
 - If you're an undergrad enrolled in 194R, please sign up to either of:
     1) help a grad student with a tutorial (be an assistant tutorial lead)
-    2) present a 5 min 'Undergrad Expert' section to
+    2) present a 5 min 'Favorite Function' section to
        - give a deep dive into a function (either your current fav/a great one you've recently discovered or one of the central functions from a prior tutorial that you wanted to know more about)
        - Share a coding tip or trick that makes your code more readable/transferable/robust or just something cool that makes your R life better.
 (NOTE: This is actually intended to be quick, really 5mins or less)
