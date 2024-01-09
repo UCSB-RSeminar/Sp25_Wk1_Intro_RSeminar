@@ -49,3 +49,10 @@ When you are done with the code, email me (landeregg@ucsb.edu) and I will fork t
 
 Note on public vs. private repositories
 The default for GitHub (and this seminar) is to have all of the files in a repository, including code and data, open for public examination. If that is not possible (for example you are using someone else's data), you can choose to keep a repository private when you create it. To do so without paying for a GitHub subscription, you will need to apply for an education discount (https://education.github.com/). After you get the discount, you can select the "Private" option when you create a new repository. This repository will not be visible to anyone except you by default. In order to share it with the rest of the seminar, you will need to give me access to this repository so I can create a "fork" of it that will be visible to the rest of the seminar participants, but not the general public. To do this, go to the repository's website, and click the "Settings" link on the right-hand side of the page, and then select the "Collaborators" tab. Add my GitHub username (@leanderegg) to the collaborators list.
+
+
+
+## Github and R/Rstudio resources:
+https://cfss.uchicago.edu/setup/ 
+https://rfortherestofus.com/2021/02/how-to-use-git-github-with-r/
+![image](https://github.com/UCSB-RSeminar/W24_Wk1_Intro_RSeminar/assets/96857122/4e1726c7-0859-405a-9499-0413a04a8da7)
