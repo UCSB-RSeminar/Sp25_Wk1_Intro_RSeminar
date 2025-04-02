@@ -1,5 +1,5 @@
-# RSeminar, winter 2024
-Shared Code Repo for UCSB EEMB R Seminar, WIN2024 (EEMB 595R, EEMB 194R)
+# EEMB 595R/194R RSeminar
+Shared Code Repo for UCSB EEMB R Seminar(EEMB 595R, EEMB 194R)
 
 Created by Leander Anderegg (landeregg@ucsb.edu, https://github.com/leanderegg), based on materials created by legendary Dr. Ian Breckheimer (https://github.com/ibreckhe) for an old R Seminar at the University of Washington (https://github.com/UW-RSeminar-Fall2015)
 
@@ -23,13 +23,13 @@ Guidelines for Presenters:
 - If you're a grad enrolled in 595R, please sign up to lead a tutorial
 - If you're an undergrad enrolled in 194R, please sign up to either of:
     1) help a grad student with a tutorial (be an assistant tutorial lead)
-    2) present a 5 min 'Favorite Function' section to
+    2) present a 5-10 min 'Favorite Function' section to
        - give a deep dive into a function (either your current fav/a great one you've recently discovered or one of the central functions from a prior tutorial that you wanted to know more about)
        - Share a coding tip or trick that makes your code more readable/transferable/robust or just something cool that makes your R life better.
 (NOTE: This is actually intended to be quick, really 5mins or less)
 
 ## Instructions for Presenters:
-Sign into the GitHub website and create a new repository to hold the files you want to share. Name it using the convention "WeekX_topic". For example if you are presenting about regression on week 3, the name would be "Week3_regression". Optionally add a description, .gitignore, README, and license. Click "Create repository".
+Sign into the GitHub website and create a new repository to hold the files you want to share. Name it using the convention "Sp25_WeekX_topic". For example if you are presenting about regression on week 3, the name would be "Sp25_Week3_regression". Optionally add a description, .gitignore, README, and license. Click "Create repository".
 
 In RStudio, go to File > New Project... Select Version Control > Git
 
